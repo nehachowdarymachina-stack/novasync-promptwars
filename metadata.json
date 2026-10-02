@@ -1,0 +1,8 @@
+{
+  "name": "Novasync: Merchant Apps & Predictive Inventory Engine",
+  "description": "Quick-commerce merchant portal and executive command centre solving stock sync latency, inventory dropouts, and delivery cancellations for Nova Cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
